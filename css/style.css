@@ -1,0 +1,366 @@
+   body {
+       overflow-x: hidden;
+   }
+   
+   .navbar .fornav ul {
+       margin: auto;
+       font-size: 1.2rem;
+   }
+   
+   .navbar {
+       /* background-color: #00aff0; */
+   }
+   
+   .quick {
+       color: white;
+       background-color: green;
+       border-radius: 15px;
+   }
+   
+   .quick:hover {
+       color: black;
+   }
+   
+   .column2 {
+       background-color: #ffffff;
+       margin: auto;
+   }
+   
+   .btn {
+       border-color: purple;
+       border: 2px solid;
+       border-radius: 15px;
+   }
+   
+   .forbtn {
+       padding-top: 16px;
+   }
+   
+   .btn:hover {
+       background-color: blueviolet;
+       border-color: black;
+       color: #ffffff;
+   }
+   
+   .para1 {
+       float: right;
+       border-right: 2px solid;
+       color: #ffffff;
+       padding-right: 8px;
+       border-color: black;
+       font-size: 1.4rem;
+   }
+   
+   .maindiv .row {
+       height: 70px;
+       background-color: rgb(146, 71, 216);
+       justify-content: center;
+   }
+   
+   .para2 {
+       color: #ffffff;
+   }
+   
+   .divservices1,
+   .divservices2 {
+       margin: auto;
+   }
+   
+   .cardview {
+       height: 400px;
+       width: 80%;
+       float: right;
+       margin-right: 16px;
+       margin-left: 16px;
+   }
+   
+   .card-title {
+       text-align: center;
+   }
+   
+   .card-text {
+       text-align: center;
+   }
+   
+   .card-img-top {
+       padding-top: 16px;
+   }
+   
+   .card-link {
+       text-decoration: none;
+       color: green;
+       margin: auto;
+   }
+   
+   .card-body {
+       margin: auto;
+   }
+   
+   .cardbody {
+       border: 2px solid;
+       border-color: green;
+       border-radius: 15px;
+   }
+   
+   .card {
+       height: 350px;
+       width: 300px;
+       border-radius: 10px;
+       border: 2px solid;
+       border-color: white;
+   }
+   
+   .firstrow {}
+   
+   .servicecol1:hover {
+       border: 2px solid;
+       border-radius: 15px;
+       border-color: skyblue;
+   }
+   
+   .servicecol2:hover {
+       border: 2px solid;
+       border-radius: 15px;
+       border-color: skyblue;
+   }
+   
+   .servicecol3:hover {
+       border: 2px solid;
+       border-radius: 13px;
+       border-color: skyblue;
+   }
+   
+   .topestontainer {
+       width: 100%;
+       height: 100%;
+   }
+   
+   .slideimgs img {
+       height: 200px;
+       width: 200px;
+   }
+   
+   .upperheading {
+       text-align: center;
+       font-size: 2rem;
+       border: 2px solid;
+       border-radius: 15px;
+       border-color: purple;
+       background-color: rgb(146, 71, 216);
+       color: white;
+   }
+   
+   .headingdiv {
+       padding-top: 8px;
+       padding-bottom: 16px;
+       width: 100%;
+   }
+   
+   .footer {
+       height: 100px;
+       background-color: rgb(146, 71, 216);
+   }
+   
+   .unoderlist {
+       list-style: none;
+       font-size: 1.3rem;
+       display: flex;
+       flex-wrap: wrap;
+       justify-content: center;
+       background-color: inherit
+   }
+   
+   .unoderlist li a {
+       text-decoration: none;
+       align-content: center;
+       font-size: 1.5rem;
+       color: #ffffff;
+   }
+   
+   .unoderlist li {
+       padding-right: 8px;
+       text-align: center;
+       align-content: center;
+   }
+   /* .endpage {
+           margin: 0%;
+           padding: 0%;
+           height: 150px;
+           background-image: url("https://st4.depositphotos.com/9246390/38366/v/950/depositphotos_383666668-stock-illustration-isometric-delivery-service-with-truck.jpg?forcejpeg=true");
+       } */
+   
+   .copywritepara {
+       font-weight: bold;
+       font-size: 1.5rem;
+       color: white;
+       text-align: center;
+   }
+   
+   .unoderlist .btn {
+       text-decoration: none;
+       align-content: center;
+       font-size: 1.5rem;
+       color: #ffffff;
+       border: unset;
+       padding: 1px;
+   }
+   
+   .fordrop {
+       width: 500px;
+       height: 2oopx;
+   }
+   
+   .copywritediv {
+       height: fit-content;
+       background-color: rgb(146, 71, 216);
+       padding-bottom: 8px;
+   }
+   
+   .unoderlist .lists:hover {
+       color: inherit;
+       background-color: blueviolet;
+       border-radius: 15px;
+   }
+   
+   .maincontactdiv {
+       height: 500px;
+   }
+   
+   .aboutmaindiv {
+       height: 500px;
+       width: 100%;
+   }
+   
+   .aboutimg {
+       height: 4 00px;
+       width: 100%;
+   }
+   
+   .aboutfirstcol {
+       margin: auto;
+       /* height: 420px; */
+   }
+   
+   .abouthead {
+       text-align: center;
+       color: green;
+       margin: auto;
+   }
+   
+   .aboutrow {
+       background-image: url("https://thumbs.dreamstime.com/b/simple-abstract-blue-white-wave-background-design-template-vector-gradient-flow-173408656.jpg");
+   }
+   
+   .aboutparamain {
+       width: 75%;
+       text-align: justify;
+       float: right;
+   }
+   
+   .abouthead:hover {
+       transform: scale(1.5);
+   }
+   
+   .fornav li a:hover {
+       transform: scale(1.1);
+   }
+   
+   .forquick {
+       width: "100%";
+       margin: auto;
+       float: right;
+       height: 50px;
+       padding-top: 0%;
+   }
+   
+   .aboutsecondimg {
+       height: 400px;
+       width: 100%;
+   }
+   
+   @media only screen and (max-width: 353px) {
+       .column2 {
+           width: 100%;
+           text-align: center;
+       }
+       .column1 {
+           width: 100%;
+       }
+       .maincol {
+           padding-bottom: 32px;
+       }
+   }
+   
+   @media only screen and (max-width: 800px) {
+       .imgs {
+           width: 100%;
+           height: 100%;
+       }
+       .slideimgs {
+           width: 100%;
+       }
+       .para1 {
+           padding-bottom: 32px;
+       }
+       .para2 {
+           width: 100%;
+       }
+   }
+   
+   @media only screen and (max-width: 800px) {
+       .servicecol1 {
+           width: 100%;
+           overflow: hidden;
+       }
+   }
+   
+   @media only screen and (max-width: 800px) {
+       .servicecol2 {
+           width: 100%;
+           overflow: hidden;
+       }
+       .servicecol3 {
+           width: 100%;
+           overflow: hidden;
+       }
+       .servicecol4 {
+           width: 100%;
+           overflow: hidden;
+       }
+       */
+       /* .headingdiv {
+                   width: 100%;
+               } */
+       .divservices1 {
+           width: auto;
+           padding-top: 8px;
+       }
+       .footer {
+           width: 100%;
+           height: fit-content;
+       }
+       .techhead {
+           font-size: medium;
+       }
+       .forquick {
+           width: 100%;
+           text-align: center;
+       }
+       .lists {
+           width: 100%;
+       }
+       .footer.copywritediv {
+           padding-top: 0%;
+       }
+       .firstrow {
+           width: 100%;
+           /* padding-left: 200px; */
+           margin: auto;
+       }
+   }
+   
+   @media only screen and (max-width: 300px) {
+       .aboutpara {
+           font-size: 12px;
+       }
+   }
